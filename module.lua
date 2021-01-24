@@ -1,3 +1,8 @@
-print("12123")
-print("Hello workd")
-print(123)
+local Chika = {}
+
+function Chika:Test()
+    print("Testing")
+    return 
+end
+
+return Chika
